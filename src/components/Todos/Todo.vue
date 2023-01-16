@@ -4,7 +4,7 @@
             :extraStyle="`border shadow-md cursor-pointer hover:scale-101 ease-in duration-200 ${todo.status === todoStatus.due ? 'border-red-400' : 'border-gray-200'}`">
 
             <div class="md:grid flex md:grid-cols-[70%_30%] flex-col-reverse">
-                <div class="text-2xl font-medium pb-2">{{ todo.title }}</div>
+                <div class="text-2xl font-medium pb-2 capitalize">{{ todo.title }}</div>
 
                 <div class="flex justify-between sm:justify-end">
                     <div class="flex justify-end text-sm font-medium text-blue-700 underline mb-2 md:mb-0 sm:mr-4"
