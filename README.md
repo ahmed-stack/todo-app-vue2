@@ -12,4 +12,7 @@ $ npm run build
 
 # Run the app
 $ npm start
+
+# Preview Application
+$ go to http://localhost:5173/ to see live preview
 ```
