@@ -1,12 +1,15 @@
-# todo-app-vue2
+## How To Use
+
+```bash
+# Install Dependencies
+$ npm install
 
 # Run Application
+$ npm run dev or npm start
 
-## Install Dependencies
-### npm install
+# Build Application
+$ npm run build
 
-## Run Application
-### npm run dev
-
-## Build Application
-### npm run build
+# Run the app
+$ npm start
+```
