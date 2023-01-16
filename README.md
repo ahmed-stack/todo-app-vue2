@@ -1,7 +1,7 @@
 ## Steps to Run 
 
-# Live Demo
-[Todo App]("https://euphonious-pudding-7b5e6c.netlify.app/")
+### Live Demo
+[Todo App](https://euphonious-pudding-7b5e6c.netlify.app/)
 
 ```bash
 # Install Dependencies
