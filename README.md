@@ -1,4 +1,4 @@
-## How To Use
+## Steps to Run 
 
 ```bash
 # Install Dependencies
